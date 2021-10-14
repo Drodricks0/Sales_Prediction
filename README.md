@@ -50,5 +50,6 @@ Linear Regression and Random Forests capture the smallest error ($), which is es
 
 Recommendations for capturing sales are:
 
-Item MRP and the type of Outlet, specifically Supermarket Type 3. These two groups will aid in capturing more sales.
+Item MRP and the type of Outlet, precisely Supermarket Type 3: These two groups will aid in capturing more sales. Stakeholders should focus on sustaining higher MRP items in stock and order them more frequently as sales spikes appear.
 
+As for which outlet style is gathering the most sales, Supermarket Type 3 is selling very well. Either build more Supermarket Type 3s or convert the other outlet types into modeling Type 3 (as in copying: Interior/Exterior Design, location of the product, carrying similar products, etc.)
